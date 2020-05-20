@@ -1167,18 +1167,18 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     libts_detected_face_hal \
     libts_face_beautify_hal \
-    libloc_api_v02 \
-    WfdService \
-    CneApp \
-    FingerprintExtensionService \
-    IWlanService \
-    TimeService \
-    PowerOffAlarm \
-    QtiTelephonyService \
-    datastatusnotification \
-    imssettings \
-    uceShimService \
-    ims \
-    qcrilmsgtunnel \
-    WfdCommon
+    libloc_api_v02
+    #WfdService \
+    #CneApp \
+    #FingerprintExtensionService \
+    #IWlanService \
+    #TimeService \
+    #PowerOffAlarm \
+    #QtiTelephonyService \
+    #datastatusnotification \
+    #imssettings \
+    #uceShimService \
+    #ims \
+    #qcrilmsgtunnel \
+    #WfdCommon
 
