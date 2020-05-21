@@ -21,7 +21,7 @@ ifeq ($(TARGET_DEVICE),vince)
 include $(CLEAR_VARS)
 LOCAL_MODULE := libbtconfigstore
 LOCAL_MODULE_OWNER := xiaomi
-LOCAL_SRC_FILES_64 := proprietary/lib64/libantradio.so
+LOCAL_SRC_FILES_64 := proprietary/lib64/libbtconfigstore.so
 LOCAL_SRC_FILES_32 := proprietary/lib/libbtconfigstore.so
 LOCAL_MULTILIB := both
 LOCAL_MODULE_TAGS := optional
